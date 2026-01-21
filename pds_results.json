@@ -1,0 +1,26 @@
+[
+  {
+    "pdf_link": "https://www.tremcosealants.com/wp-content/uploads/2023/12/spectrem-1-tds-us-en.pdf",
+    "pdf_summary": "Spectrem 1 is a high-performance, single-component, neutral-cure silicone sealant designed for a variety of weatherproofing applications. It offers excellent adhesion to many substrates and can accommodate joint movement of +/- 50%. The sealant is ideal for sealing joints in precast concrete, masonry, and curtain wall construction.",
+    "confidence_score": 0.9,
+    "justification": "This is the Technical Data Sheet for Tremco Spectrem 1. It confirms it is a single-component, neutral-cure silicone sealant with +/- 50% movement capability, aligning well with the provided specifications and manufacturer list."
+  },
+  {
+    "pdf_link": "https://www.ge.com/content/dam/ge/commercial/silicone-sealants/americas/documents/datasheet-scs2700-silpruf-lm-sealant.pdf",
+    "pdf_summary": "SCS2700 SILPRUF LM sealant is a low-modulus, neutral-cure silicone sealant from GE Construction Sealants. It is designed for weather sealing applications and offers excellent flexibility and movement capability. It adheres to a variety of substrates and is suitable for use in joints with significant movement.",
+    "confidence_score": 0.85,
+    "justification": "This is the datasheet for GE SCS2700 Silpruf LM. It confirms it is a neutral-cure silicone sealant with low modulus, suitable for joints with movement, aligning with the specifications and manufacturer list, although it doesn't explicitly state 'non-staining'."
+  },
+  {
+    "pdf_link": "https://www.pecora.com/wp-content/uploads/2023/05/890NST_TDS_03-2023.pdf",
+    "pdf_summary": "Pecora 890NST is a non-staining, single-component, neutral cure silicone sealant specifically formulated for sealing joints where staining of adjacent substrates is a concern. It's designed for weatherproofing and offers excellent adhesion and elasticity. The sealant conforms to ASTM C920, Type S, Grade NS, Class 50.",
+    "confidence_score": 0.95,
+    "justification": "This is the TDS for Pecora 890 (NST) which explicitly mentions 'non-staining' and confirms compliance with ASTM C 920, Type S, Grade NS. While the Class is listed as 50, not 100/50, the other key characteristics and explicit mention of being non-staining makes it a very strong match."
+  },
+  {
+    "pdf_link": "https://sika.scene7.com/is/content/sika/sikasil_ws_290_tds_enpdf",
+    "pdf_summary": "Sikasil\u00ae WS-290 is a neutral-curing silicone weatherseal sealant specifically designed for demanding glazing and weathersealing applications. It provides excellent UV and weather resistance, as well as strong adhesion to a wide variety of substrates. It's a high-performance sealant suitable for use in curtain wall, building facade, and perimeter sealing applications.",
+    "confidence_score": 0.8,
+    "justification": "This is the Technical Data Sheet for Sika Sikasil WS-290. It confirms it is a neutral-curing silicone sealant designed for weathersealing, aligning with the general specifications and manufacturer list. While it doesn't explicitly emphasize 'non-staining' or the exact movement capability, its application and properties suggest a good fit."
+  }
+]
