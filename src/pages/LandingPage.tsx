@@ -82,12 +82,12 @@ export default function LandingPage() {
                   Start Free Trial
                 </Link>
                 <a
-                  href="mailto:zack@kbccm.com?subject=Schedule%20a%20Demo"
+                  href="mailto:zack@submittalfactory.com?subject=Schedule%20a%20Demo"
                   className="btn-primary"
                 >
                   Schedule a Demo
                 </a>
-                <a href="mailto:zack@kbccm.com" className="btn-secondary">
+                <a href="mailto:zack@submittalfactory.com" className="btn-secondary">
                   Contact Us
                 </a>
               </div>
@@ -348,12 +348,12 @@ export default function LandingPage() {
               Start Free Trial
             </Link>
             <a
-              href="mailto:zack@kbccm.com?subject=Schedule%20a%20Demo"
+              href="mailto:zack@submittalfactory.com?subject=Schedule%20a%20Demo"
               className="btn-primary"
             >
               Schedule a Demo
             </a>
-            <a href="mailto:zack@kbccm.com" className="btn-secondary">
+            <a href="mailto:zack@submittalfactory.com" className="btn-secondary">
               Contact Us
             </a>
           </div>
@@ -411,8 +411,8 @@ export default function LandingPage() {
               <div className="text-white font-semibold mb-2">Contact</div>
               <ul className="space-y-2 text-sm">
                 <li>
-                  <a href="mailto:zack@kbccm.com" className="hover:text-white">
-                    zack@kbccm.com
+                  <a href="mailto:zack@submittalfactory.com" className="hover:text-white">
+                    zack@submittalfactory.com
                   </a>
                 </li>
               </ul>
