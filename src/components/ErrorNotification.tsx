@@ -235,7 +235,7 @@ export const ErrorNotification: React.FC<ErrorNotificationProps> = ({
             {/* Contact Support */}
             {error.showContactSupport && (
               <a
-                href="mailto:zack@kbccm.com?subject=Error%20Report"
+                href="mailto:zack@submittalfactory.com?subject=Error%20Report"
                 className={`inline-flex items-center px-3 py-1.5 text-sm font-medium rounded-md ${styles.button} transition-colors`}
               >
                 <HelpCircle className="h-4 w-4 mr-1.5" />
