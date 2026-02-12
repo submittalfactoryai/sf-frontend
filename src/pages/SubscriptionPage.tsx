@@ -459,7 +459,7 @@ const SubscriptionPage: React.FC = () => {
                     </p>
                     <button
                       onClick={() =>
-                        (window.location.href = "mailto:zack@kbccm.com")
+                        (window.location.href = "mailto:zack@submittalfactory.com")
                       }
                       className="w-full px-4 py-2 bg-white text-orange-600 rounded-xl font-semibold hover:bg-gray-100 transition-colors"
                     >
