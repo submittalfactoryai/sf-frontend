@@ -1164,7 +1164,7 @@ function App() {
       setSubscriptionBlocked(true);
       setBlockingMessage(
         `Your 30-day free trial has expired. Please contact ${
-          subscription.admin_contact_email || "zack@kbccm.com"
+          subscription.admin_contact_email || "zack@submittalfactory.com"
         } to continue using the service.`
       );
       return true;
@@ -1175,7 +1175,7 @@ function App() {
       setSubscriptionBlocked(true);
       setBlockingMessage(
         `Your account has been locked. Please contact ${
-          subscription.admin_contact_email || "zack@kbccm.com"
+          subscription.admin_contact_email || "zack@submittalfactory.com"
         } for assistance.`
       );
       return true;
@@ -1202,7 +1202,7 @@ function App() {
         `You have used all ${
           subscription.api_call_limit
         } PDF uploads in your free trial. Please contact ${
-          subscription.admin_contact_email || "zack@kbccm.com"
+          subscription.admin_contact_email || "zack@submittalfactory.com"
         } to upgrade your plan.`
       );
       return true;
@@ -3083,12 +3083,12 @@ function App() {
                             <a
                               href={`mailto:${
                                 user?.subscription?.admin_contact_email ||
-                                "zack@kbccm.com"
+                                "zack@submittalfactory.com"
                               }`}
                               className="font-medium underline hover:text-orange-800"
                             >
                               {user?.subscription?.admin_contact_email ||
-                                "zack@kbccm.com"}
+                                "zack@submittalfactory.com"}
                             </a>{" "}
                             to upload more PDFs.
                           </p>
@@ -3219,10 +3219,10 @@ function App() {
                               <p className="text-sm text-gray-700">
                                 Please contact your administrator at{" "}
                                 <a
-                                  href="mailto:zack@kbccm.com"
+                                  href="mailto:zack@submittalfactory.com"
                                   className="font-medium text-blue-600 hover:text-blue-500 transition-colors"
                                 >
-                                  zack@kbccm.com
+                                  zack@submittalfactory.com
                                 </a>{" "}
                                 to request access.
                               </p>
@@ -4755,10 +4755,10 @@ function App() {
                         <ul className="space-y-3">
                           <li>
                             <a
-                              href="mailto:zack@kbccm.com"
+                              href="mailto:zack@submittalfactory.com"
                               className="text-neutral-600 hover:text-blue-600 transition-colors"
                             >
-                              zack@kbccm.com
+                              zack@submittalfactory.com
                             </a>
                           </li>
                           <li>
